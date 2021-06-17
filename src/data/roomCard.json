@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "title": "GOOD TIME",
+    "sub_title": "Consectetur adipisicing elit. Qui minima a, dolores molliti",
+    "members": [
+      {
+        "first_name": "Kemal",
+        "last_name": "Abdullahoglu"
+      },
+      {
+        "first_name": "Igor",
+        "last_name": "Vavilov"
+      },
+      {
+        "first_name": "Sahin",
+        "last_name": "Bayraktar"
+      },
+      {
+        "first_name": "Furkan",
+        "last_name": "Cat"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "BAD TIME",
+    "sub_title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui minima a, dolores mollitia quam iure",
+    "members": [
+      {
+        "first_name": "Hendrix",
+        "last_name": "Bradford"
+      },
+      {
+        "first_name": "Reyansh ",
+        "last_name": "Contreras"
+      },
+      {
+        "first_name": "Kaylem",
+        "last_name": "Richard"
+      },
+      {
+        "first_name": "Nour",
+        "last_name": "Chandler"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "EXCELLENT TIME",
+    "sub_title": "Random strings can be unique. Used in computing, be called a random character string generator.",
+    "members": [
+      {
+        "first_name": "Vasya",
+        "last_name": "Vasilevich"
+      },
+      {
+        "first_name": "Igor",
+        "last_name": "Vavilov"
+      },
+      {
+        "first_name": "Yorth",
+        "last_name": "Fity"
+      },
+      {
+        "first_name": "Yulia",
+        "last_name": "Boika"
+      }
+    ]
+  }
+]
