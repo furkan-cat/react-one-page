@@ -15,17 +15,19 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Type to see user feedback. It's a basic virtual keyboard. After a while later I'm gonna integrate some updates. One issue that i can not handle with shift buttons. For now they are not working together. But fur now.. Currently I'm working on it..   
+It's my first react one page project. I've tried to use React Router.. Some kind of hardcoded messaging app demo without realtime api.
 
 [Project-Demo](https://react-virtual-keyboard.netlify.app/)
 
-![Screenshot from 2021-06-07 00-35-13](https://user-images.githubusercontent.com/75113766/120940909-5e524000-c728-11eb-9eae-d29fb28e3c97.png)
+![Screenshot from 2021-06-17 20-30-17](https://user-images.githubusercontent.com/75113766/122446287-2c07d480-cfab-11eb-8002-04506d819a20.png)
+
 
 #### React Used
 
 * Js DOM events
-* Hooks (useEffect)
-* KeyCode
+* Hooks (useEffect, useState)
+* React Router
+* Fetching hardcoded data 
 * Map rendering
 * Css Manupulation
 * Bootstrap
