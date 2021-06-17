@@ -17,7 +17,7 @@
 
 It's my first react one page project. I've tried to use React Router.. Some kind of hardcoded messaging app demo without realtime api.
 
-[Project-Demo](https://react-virtual-keyboard.netlify.app/)
+[Project-Demo](https://dazzling-leavitt-e88d0e.netlify.app/)
 
 ![Screenshot from 2021-06-17 20-30-17](https://user-images.githubusercontent.com/75113766/122446287-2c07d480-cfab-11eb-8002-04506d819a20.png)
 
